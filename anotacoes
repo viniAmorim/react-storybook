@@ -1,0 +1,5 @@
+. yarn init -y
+. yarn add -D react @types/react typescript
+. yarn tsc --init
+. yarn add -D ts-loader @storybook/addon-info react-docgen-typescript-loader
+. yarn add -D @storybook/addon-centered
